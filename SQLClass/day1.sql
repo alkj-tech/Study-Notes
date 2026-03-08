@@ -1,27 +1,30 @@
-create database sample;
+create database super_market;
 
-drop database sample;
+drop database super_market;
 
-use sample;
+use super_market;
 
-show tables;
+CREATE table products(
+product_id int primary key,
+product_name varchar(255) not null,
+price int,
+expiry_date varchar(255)
+);
 
-create table employee(
-  id int,
-  empName varchar(255),
-  empDesg varchar(255),
-  empSal double,
-  empJoiningDate date);
-  
-alter table employee add empCity varchar(255);
+alter table products add
+product_vendor varchar(255);
 
-alter table employee drop empCity;
+alter table products drop 
+product_vendor;
 
-alter table employee modify column id float;
-  
-select * from employee;
-  
-drop table employee;
+alter table products modify
+expiry_date date default '2026-06-20';
 
 
+drop table products;
 
+truncate table products; 
+
+select * from products;
+
+describe products;

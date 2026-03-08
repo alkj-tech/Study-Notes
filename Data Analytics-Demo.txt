@@ -1,0 +1,29 @@
+Data Analytics:
+Topics:
+MySQL - Database - DDL, DML, DQL, TCL
+Python - programing language , NumPy
+BI - Visualize
+
+----------------------------------------
+
+
+cg - 1000/9000  - 750 - 10000 - 7500 - profit 
+cs - 500/4000   - 200 - 5000 - 2000  - const
+
+new - 1000/9000
+---------------------------------------
+
+sale report:
+cg - 7.5
+cs - 4
+
+Re order-report:
+cust_id:
+cg - 40
+cs - 70
+
+
+----------------------------------
+1. data analysis
+2. prediction
+3. visualize

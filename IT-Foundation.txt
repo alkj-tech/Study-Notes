@@ -1,0 +1,54 @@
+Computer vs Human:
+CPU      - Processor (brain of computer) - 
+   -Storage - RAM(Random Access memory)- ROM - (Read Only Memory) 
+Charging - Battery - Heart
+Display  - SKin 
+Keyboard - eyes,ear,mouth
+Mouse - Hand, Leg, head
+Motherboard - Veins , Blood cells
+
+----------------------------------------------------
+Computer Internal Workings:
+
+Speak/Communication - Programming Language 
+
+0 1 - Binary codes 
+
+COBOL - C Programming - Syntax - Compiler  
+ 
+
+5 + 9 = 1ca
+
+1110
+
+
+----------------------------------------------------
+Application:
+ a software program or set of programs designed to help users perform specific tasks. Unlike system software, which manages a computer's fundamental operations, applications focus on functions directly relevant to the end-user. 
+
+EG:
+Bike: 
+Frontend -  Outlook - RX 100 
+Backend - Logic 
+
+Calculator app:
+Frontend - buttons
+Backend - operations 
+
+----------------------------------------------------
+
+Network-
+A network, in its most basic sense, is a group of interconnected devices that can communicate and share resources
+
+Types of Networks:
+Local Area Network (LAN): Covers a small geographic area, such as a home or office.
+Wide Area Network (WAN): Spans a large geographic area, potentially across countries or continents, like the internet.
+Personal Area Network (PAN): A network for personal devices, like your phone and earbuds connected via Bluetooth. 
+
+An Internet Protocol address (IP address) is a numerical label such as 192.0.2.1 that is assigned to a device connected to a computer network that uses the Internet Protocol for communication.[1][2] IP addresses serve two main functions: network interface identification, and location addressing.
+
+A VPN, or Virtual Private Network, is a service that creates a secure, encrypted connection over the internet. It masks your IP address, making it harder for third parties to track your online activity and access your data. 
+
+HTTP, which stands for Hypertext Transfer Protocol, is the foundation of data communication on the World Wide Web. It's the protocol that allows your web browser to request and receive information from web servers, enabling you to view web pages and other online content. 
+
+-------------------------------------------------------------

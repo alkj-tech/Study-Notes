@@ -1,0 +1,37 @@
+IT-
+*Technical
+  -any one programing language
+  -Problem Solving
+  -Logical Thinking
+  -SE, Tester
+*Non Technical
+  -SDLC process -(Application Roles)
+  -Cloud Devops- (AWS,CI/CD)
+  -Data, Business Analyst, HR 
+
+Non IT - BPO(Voice , Non Voice)
+
+
+
+----------------------------------------------------------
+
+Data - it is information 
+
+Applications: - --------(FB)Android app, IOS, System Application(Window,Linux), Web Application
+  (SDLC - Software Developement Lifecycle)
+   Requirements
+   Analysis 
+   +Design - UI/UX development - web developer - db - (Frontend developer -technology)
+   -Development - software developer, software engineer ,fullstack developer(MERN and MEAN)
+                   (backend developement - problem solving) (Database Developer - data flow and logical thinking)
+   -Testing - software testing 
+   +Deployment  --flow  
+   ++Support (Maintenance) - Database management, ITIL(JIRA, Service Now), Process IT
+
+
+
+----------------------------------------------------------------
+
+Data Science - prediction , 
++Data Analysis(MySQL, Excel ad, BI dashboard) - Visualize
+   

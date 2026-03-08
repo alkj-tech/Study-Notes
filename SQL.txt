@@ -36,6 +36,7 @@ add column
 drop column
 modify column datatype
 
+properties: Atomicity, Consistency, Isolation, and Durability. ACID is an acronym that refers to the set of 4 key properties that define a transaction: Atomicity, Consistency, Isolation, and Durability.
 
 SQL constraints:
 
